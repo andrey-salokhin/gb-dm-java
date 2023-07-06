@@ -18,7 +18,6 @@ public class Lesson_1 {
         showIntList(getPrimeNumbers(101));
         System.out.println();
         System.out.println(calc(2, 6, '*'));
-        getFullExpression("2? + ?5 = 69");
     }
 
     public static Integer getSumOfNumbers(Integer number) {
