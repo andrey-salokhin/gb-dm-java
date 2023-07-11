@@ -1,3 +1,4 @@
+package lesson1_hw;
 /**
  * Lesson 1 homework
  * 

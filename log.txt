@@ -1,0 +1,20 @@
+Jul 11, 2023 2:42:59 AM lesson2_hw.LogSortArray writeLog
+INFO: [11, 3, 14, 16, 7]
+Jul 11, 2023 2:42:59 AM lesson2_hw.LogSortArray writeLog
+INFO: [3, 11, 14, 7, 16]
+Jul 11, 2023 2:42:59 AM lesson2_hw.LogSortArray writeLog
+INFO: [3, 11, 14, 7, 16]
+Jul 11, 2023 2:42:59 AM lesson2_hw.LogSortArray writeLog
+INFO: [3, 11, 7, 14, 16]
+Jul 11, 2023 2:42:59 AM lesson2_hw.LogSortArray writeLog
+INFO: [3, 11, 7, 14, 16]
+Jul 11, 2023 2:42:59 AM lesson2_hw.LogSortArray writeLog
+INFO: [3, 11, 7, 14, 16]
+Jul 11, 2023 2:42:59 AM lesson2_hw.LogSortArray writeLog
+INFO: [3, 7, 11, 14, 16]
+Jul 11, 2023 2:42:59 AM lesson2_hw.LogSortArray writeLog
+INFO: [3, 7, 11, 14, 16]
+Jul 11, 2023 2:42:59 AM lesson2_hw.LogSortArray writeLog
+INFO: [3, 7, 11, 14, 16]
+Jul 11, 2023 2:42:59 AM lesson2_hw.LogSortArray writeLog
+INFO: [3, 7, 11, 14, 16]
