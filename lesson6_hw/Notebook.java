@@ -8,6 +8,16 @@ public class Notebook {
     String os;
     String color;
 
+
+    public Notebook(String brand, String model, String ram, String ssd, String os, String color) {
+        this.brand = brand;
+        this.model = model;
+        this.ram = ram;
+        this.ssd = ssd;
+        this.os = os;
+        this.color = color;
+    }
+
     @Override
     public String toString() {
         return String.format("Notebook: %s %s , RAM: %s, SSD: %s, OS: %s, Color: %s", brand, model, ram, ssd, os, color);

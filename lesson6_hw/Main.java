@@ -8,21 +8,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Notebook nb1 = new Notebook();
-        nb1.brand = "Asus";
-        nb1.model = "b1";
-        nb1.color = "black";
-        nb1.ram = "8";
-        nb1.os = "win";
-        nb1.ssd = "512";
-
-        Notebook nb2 = new Notebook();
-        nb2.brand = "MSU";
-        nb2.model = "a1";
-        nb2.color = "white";
-        nb2.ram = "16";
-        nb2.os = "linux";
-        nb2.ssd = "256";
+        Notebook nb1 = new Notebook("Asus", "b1", "black", "8", "win", "512");
+        Notebook nb2 = new Notebook("MSU", "a1", "white", "16", "linux", "256");
 
         Set <Notebook> notebooks = new HashSet<>();
         notebooks.add(nb1);
